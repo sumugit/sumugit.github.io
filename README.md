@@ -1,6 +1,6 @@
 # Yuta Sumiya
 
-<img src="https://github.com/sumugit/sumugit.github.io/blob/main/myimage.jpg" width="200">
+<img src="./myimage.jpg" width="200">
 
 ## 📌 About Me
 

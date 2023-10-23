@@ -60,8 +60,8 @@ During my university years, I was involved in multiple machine learning research
 ## 🌐 Contact & Links
 
 - **Email**: sumiya@uec.ac.jp
-- **LinkedIn**: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
-- **GitHub**: [github.com/johndoe](https://github.com/sumugit)
+- **LinkedIn**: [link](https://www.linkedin.com/in/%E7%A5%90%E5%A4%AA-%E4%BD%8F%E8%B0%B7-b4035523a/)
+- **GitHub**: [link](https://github.com/sumugit)
 
 ---
 

@@ -1,6 +1,8 @@
 # Yuta Sumiya
 
-<img src="./myimage.jpg" width="200">
+<p align="center">
+  <img src="./myimage.jpg" width="200">
+</p>
 
 ## 📌 About Me
 
@@ -59,10 +61,9 @@ My university years were marked by involvement in multiple machine learning rese
 
 ## 🌐 Contact & Links
 
-- **Email**: sumiya@uec.ac.jp
-- **LinkedIn**: [link](https://www.linkedin.com/in/%E7%A5%90%E5%A4%AA-%E4%BD%8F%E8%B0%B7-b4035523a/)
-- **GitHub**: [link](https://github.com/sumugit)
-
+- **Email**: [sumiya@uec.ac.jp](mailto:sumiya@uec.ac.jp)
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/%E7%A5%90%E5%A4%AA-%E4%BD%8F%E8%B0%B7-b4035523a/)
+- **GitHub**: [Profile](https://github.com/sumugit)
 ---
 
 Looking forward to potential collaborations and discussions!

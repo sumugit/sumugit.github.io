@@ -4,7 +4,7 @@
 
 ## 📌 About Me
 
-During my university years, I was involved in multiple machine learning research projects, with a particular focus on counterfactual explanations, natural language processing through statistical machine learning, and the development of recommendation systems using graph neural networks. Starting in 2024, I will embark on a career as a consultant leveraging data science.
+My university years were marked by involvement in multiple machine learning research projects, where I particularly focused on counterfactual explanations, statistical machine learning for natural language processing, and the development of recommendation systems using graph neural networks. In 2024, I am set to begin a career in data science consulting, leveraging the expertise I have gained.
 
 ## 📚 Education
 

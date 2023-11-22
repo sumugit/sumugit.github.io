@@ -1,7 +1,7 @@
 # Yuta Sumiya
 
 <p align="center">
-  <img src="./IMG_5624.jpg" width="200">
+  <img src="./IMG_5624.jpg" style="width: 100%;">
 </p>
 
 ## 📌 About Me

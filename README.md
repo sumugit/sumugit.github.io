@@ -59,7 +59,7 @@ My university years were marked by involvement in multiple machine learning rese
 - Kaggle Contributer [[link](https://www.kaggle.com/sumipy)]
 - AtCoder Brown [[link](https://atcoder.jp/users/yusumi)]
 
-## ✍ Qualification
+## Qualification
 - TOEIC 825 (2023/06)
 - EIKEN Grade Pre-1
 - Japan Statistical Society Certificate Grade 2

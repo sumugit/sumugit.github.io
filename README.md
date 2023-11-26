@@ -23,7 +23,7 @@ My university years were marked by involvement in multiple machine learning rese
 
 1. Y. Sumiya, R. Numata and S. Takahashi. "Pseudo Session-Based Recommendation with Hierarchical Embedding and Session Attributes", in 26th International Conference on Discovery Science, Portugal, October 2023. [[arXiv link](https://arxiv.org/abs/2306.10029)]
 
-### ### Conference Presentations (Non-peer-reviewed)
+### Conference Presentations (Non-peer-reviewed)
 
 1. 住谷祐太, 庄野逸. "FastDCFlow: Fast and Diverse Counterfactual Explanations Using Normalizing Flows", The 24th Information-based induction science workshop , 北九州国際会議場, 2023年10月.
 2. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. "セッション属性と商品特徴量の階層埋め込みによる擬似セッションベース推薦", 令和4年度データ解析コンペティション成果報告会, 中央大学後楽園キャンパス, 2023年3月.
@@ -36,12 +36,13 @@ My university years were marked by involvement in multiple machine learning rese
 
 ## 🏆 Awards
 
-1. 池澤隆斗, 羽田野湧太, 住谷祐太, 富川雄斗 & 伊藤尚紀. U☆PoC～UECアイディア実証コンテスト～2023, 奨励賞 (2位), 電気通信大学, 2023年9月. [[link](https://www.uec.ac.jp/research/venture/contest.html)]
-2. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. 令和4年度データ解析コンペティション最終報告会, 最優秀賞, 2023年2月. [[link](http://jscs.jp/dac/index.php/meeting/R04meeting)]
-3. 住谷祐太. 電気通信大学目黒会賞, 2022年3月. [[link](https://megurokai.jp/home2/category/dosokaisho/)]
-4. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. 令和3年度データ解析コンペティション成果報告会, 審査員特別賞 (3位), 2022年3月. [[link](https://jasmac-j.jimdofree.com/)]
-5. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. 令和3年度データ解析コンペティション最終報告会, 最優秀賞, 2022年2月. [[link](http://jscs.jp/dac/index.php/meeting/R03meeting)]
-6. 住谷祐太, 矢田翔大, 東恩納怜也, 長谷川浩生, 中濱雄喜, 青柳和樹, 伊藤尚紀 & 高橋里司. 令和2年度データ解析コンペティション最終報告会, 奨励賞, 2021年2月. [[link](http://jscs.jp/dac/index.php/meeting/R02meeting)]
+1. 羽田野湧太, 池澤隆斗, 住谷祐太, 富川雄斗 & 伊藤尚紀. 都知事杯 Open Data hackathon 2023 Final, 技能賞, 新宿NSビル, 2023年11月. [[link](https://odhackathon.metro.tokyo.lg.jp/)]
+2. 池澤隆斗, 羽田野湧太, 住谷祐太, 富川雄斗 & 伊藤尚紀. U☆PoC～UECアイディア実証コンテスト～2023, 奨励賞 (2位), 電気通信大学, 2023年9月. [[link](https://www.uec.ac.jp/research/venture/contest.html)]
+3. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. 令和4年度データ解析コンペティション最終報告会, 最優秀賞, 2023年2月. [[link](http://jscs.jp/dac/index.php/meeting/R04meeting)]
+4. 住谷祐太. 電気通信大学目黒会賞, 2022年3月. [[link](https://megurokai.jp/home2/category/dosokaisho/)]
+5. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. 令和3年度データ解析コンペティション成果報告会, 審査員特別賞 (3位), 2022年3月. [[link](https://jasmac-j.jimdofree.com/)]
+6. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. 令和3年度データ解析コンペティション最終報告会, 最優秀賞, 2022年2月. [[link](http://jscs.jp/dac/index.php/meeting/R03meeting)]
+7. 住谷祐太, 矢田翔大, 東恩納怜也, 長谷川浩生, 中濱雄喜, 青柳和樹, 伊藤尚紀 & 高橋里司. 令和2年度データ解析コンペティション最終報告会, 奨励賞, 2021年2月. [[link](http://jscs.jp/dac/index.php/meeting/R02meeting)]
  
 ## 💼 Professional Experience
 
@@ -54,10 +55,14 @@ My university years were marked by involvement in multiple machine learning rese
 
 ## 🏅 Competition Achievements
 
-- SIGNATE Exspert [[link](https://signate.jp/users/32973)]
+- SIGNATE Expert [[link](https://signate.jp/users/32973)]
 - Kaggle Contributer [[link](https://www.kaggle.com/sumipy)]
 - AtCoder Brown [[link](https://atcoder.jp/users/yusumi)]
 
+## ✏ Qualification
+- TOEIC 825 (2023/06)
+- EIKEN Grade Pre-1
+- Japan Statistical Society Certificate Grade 2
 
 ## 🌐 Contact & Links
 

@@ -64,11 +64,17 @@ My university years were marked by involvement in multiple machine learning rese
 - EIKEN Grade Pre-1
 - Japan Statistical Society Certificate Grade 2
 
+## Other information
+- 学費全額免除 (2020年 -- 2023年)
+- 日揮・実吉奨学財団奨学生 (2018年)
+- 川本・森奨学財団奨学生 (2019年 -- 2023年)
+
 ## 🌐 Contact & Links
 
 - **Email**: [sumiya@uec.ac.jp](mailto:sumiya@uec.ac.jp)
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/%E7%A5%90%E5%A4%AA-%E4%BD%8F%E8%B0%B7-b4035523a/)
 - **GitHub**: [Profile](https://github.com/sumugit)
+- **Speakerdeck**: [Decks](https://speakerdeck.com/yusumi)
 
 ---
 

@@ -38,7 +38,7 @@ My university years were marked by involvement in multiple machine learning rese
 
 1. 羽田野湧太, 池澤隆斗, 住谷祐太, 富川雄斗 & 伊藤尚紀. 都知事杯 Open Data hackathon 2023 Final, 技能賞, 新宿NSビル, 2023年11月. [[link](https://odhackathon.metro.tokyo.lg.jp/)]
 2. 池澤隆斗, 羽田野湧太, 住谷祐太, 富川雄斗 & 伊藤尚紀. U☆PoC～UECアイディア実証コンテスト～2023, 奨励賞 (2位), 電気通信大学, 2023年9月. [[link](https://www.uec.ac.jp/research/venture/contest.html)]
-3. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. 令和4年度データ解析コンペティション最終報告会, 最優秀賞, 2023年2月. [[link](http://jscs.jp/dac/index.php/meeting/R04meeting)]
+3. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. 令和4年度データ解析コンペティション最終報告会, 最優秀賞, 2023年2月. [[link](https://jscs.jp/dac/index.php/meeting/R04meeting)]
 4. 住谷祐太. 電気通信大学目黒会賞, 2022年3月. [[link](https://megurokai.jp/home2/category/dosokaisho/)]
 5. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. 令和3年度データ解析コンペティション成果報告会, 審査員特別賞 (3位), 2022年3月. [[link](https://jasmac-j.jimdofree.com/)]
 6. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. 令和3年度データ解析コンペティション最終報告会, 最優秀賞, 2022年2月. [[link](http://jscs.jp/dac/index.php/meeting/R03meeting)]

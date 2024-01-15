@@ -57,7 +57,7 @@ My university years were marked by involvement in multiple machine learning rese
 
 - SIGNATE Expert [[link](https://signate.jp/users/32973)]
 - Kaggle Contributer [[link](https://www.kaggle.com/sumipy)]
-- AtCoder Brown [[link](https://atcoder.jp/users/yusumi)]
+- AtCoder Green [[link](https://atcoder.jp/users/yusumi)]
 
 ## Qualification
 - TOEIC 825 (2023/06)

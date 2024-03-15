@@ -37,7 +37,7 @@ My university years were marked by involvement in multiple machine learning rese
 
 ## 🏆 Awards
 
-1.羽田野湧太, 住谷祐太, 池澤隆斗, 伊藤尚紀. URBAN DATA CHALLENGE 2023, GTFS最優秀賞, 総合銅賞(Top10%), 東京大学駒場リサーチキャンパス, 2024年3月. [[link](https://urbandata-challenge.jp/news/udc2023_final)]
+1. 羽田野湧太, 住谷祐太, 池澤隆斗, 伊藤尚紀. URBAN DATA CHALLENGE 2023, GTFS最優秀賞, 総合銅賞(Top10%), 東京大学駒場リサーチキャンパス, 2024年3月. [[link](https://urbandata-challenge.jp/news/udc2023_final)]
 2. 羽田野湧太, 池澤隆斗, 住谷祐太, 富川雄斗 & 伊藤尚紀. 都知事杯 Open Data hackathon 2023 Final, 技能賞, 新宿NSビル, 2023年11月. [[link](https://odhackathon.metro.tokyo.lg.jp/)]
 3. 池澤隆斗, 羽田野湧太, 住谷祐太, 富川雄斗 & 伊藤尚紀. U☆PoC～UECアイディア実証コンテスト～2023, 奨励賞 (2位), 電気通信大学, 2023年9月. [[link](https://www.uec.ac.jp/research/venture/contest.html)]
 4. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. 令和4年度データ解析コンペティション最終報告会, 最優秀賞, 2023年2月. [[link](https://jscs.jp/dac/index.php/meeting/R04meeting)]

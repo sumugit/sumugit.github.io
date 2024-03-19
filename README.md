@@ -54,8 +54,8 @@ My university years were marked by involvement in multiple machine learning rese
 ## Part-time Job & Internship Experience
 - **Fujitsu Ltd.**: Analysis of text and POS data using data analytics platforms. (February 2022 -- December 2022, September 2023 -- March 2024)
 - **NTT Research**: Construction of network failure classification prediction models. (January 2023 -- February 2023)
-- **Hakuhodo DY Media Partners　Ltd.**: (January 2023)
-- Ubiden Ltd.**: Development of a tool for visualising the driving history of EV vehicles. (July 2020 -- February 2021)
+- **Hakuhodo DY Media Partners Ltd.**: (January 2023)
+- **Ubiden Ltd.**: Development of a tool for visualising the driving history of EV vehicles. (July 2020 -- February 2021)
 
 ## 🏅 Competition Achievements
 

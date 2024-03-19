@@ -21,7 +21,8 @@ My university years were marked by involvement in multiple machine learning rese
 
 ### International Conference Proceedings (Peer-reviewed)
 
-1. Y. Sumiya, R. Numata and S. Takahashi. "Pseudo Session-Based Recommendation with Hierarchical Embedding and Session Attributes", in 26th International Conference on Discovery Science, Portugal, October 2023. [[arXiv link](https://arxiv.org/abs/2306.10029)]
+1. Y. Sumiya and H. Shouno. "Model-Based Counterfactual Explanations Incorporating Feature Space Attributes for Tabular Data", IEEE World Congress on Computational Intelligence, Yokohama, Japan, July 2024.
+2. Y. Sumiya, R. Numata and S. Takahashi. "Pseudo Session-Based Recommendation with Hierarchical Embedding and Session Attributes", in 26th International Conference on Discovery Science, Porto, Portugal, October 2023. [[arXiv link](https://arxiv.org/abs/2306.10029)]
 
 ### Conference Presentations (Non-peer-reviewed)
 

@@ -1,7 +1,7 @@
 # Yuta Sumiya
 
-<p align="center">
-  <img src="./IMG_5624.jpg" style="width: 100%;">
+<p align=&quot;center&quot;>
+  <img src=&quot;./IMG_5624.jpg&quot; style=&quot;width: 100%;&quot;>
 </p>
 
 ## 📌 About Me
@@ -17,23 +17,23 @@ My university years were marked by involvement in multiple machine learning rese
 
 ### Journal Publications
 
-1. 住谷祐太, 富川雄斗, 伊藤尚紀, & 高橋里司. "SCTTM によるユーザ属性を考慮した潜在嗜好変化の時系列推定", オペレーションズ・リサーチ= Communications of the Operations Research Society of Japan: 経営の科学 68.2 (2023): 56-66. [[journal link](https://orsj.org/?p=5504)]
+1. 住谷祐太, 富川雄斗, 伊藤尚紀, & 高橋里司. &quot;SCTTM によるユーザ属性を考慮した潜在嗜好変化の時系列推定&quot;, オペレーションズ・リサーチ= Communications of the Operations Research Society of Japan: 経営の科学 68.2 (2023): 56-66. [[journal link](https://orsj.org/?p=5504)]
 
 ### International Conference Proceedings (Peer-reviewed)
 
-1. Y. Sumiya and H. Shouno.&quot;Hello World&quot;Model-Based Counterfactual Explanations Incorporating Feature Space Attributes for Tabular Data", IEEE World Congress on Computational Intelligence, Yokohama, Japan, July 2024.
-2. Y. Sumiya, R. Numata and S. Takahashi. ``Pseudo Session-Based Recommendation with Hierarchical Embedding and Session Attributes", in 26th International Conference on Discovery Science, Porto, Portugal, October 2023. [[arXiv link](https://arxiv.org/abs/2306.10029)]
+1. Y. Sumiya and H. Shouno.&quot;Model-Based Counterfactual Explanations Incorporating Feature Space Attributes for Tabular Data&quot;, IEEE World Congress on Computational Intelligence, Yokohama, Japan, July 2024.
+2. Y. Sumiya, R. Numata and S. Takahashi. ``Pseudo Session-Based Recommendation with Hierarchical Embedding and Session Attributes&quot;, in 26th International Conference on Discovery Science, Porto, Portugal, October 2023. [[arXiv link](https://arxiv.org/abs/2306.10029)]
 
 ### Conference Presentations (Non-peer-reviewed)
 
-1. 住谷祐太, 庄野逸. "テーブルデータにおける入力空間の特徴を考慮したモデルベース反実仮想説明", 電子情報通信学会総合大会 , 広島大学東広島キャンパス, 2024年3月.
-2. 住谷祐太, 庄野逸. "FastDCFlow: Fast and Diverse Counterfactual Explanations Using Normalizing Flows", The 24th Information-based induction science workshop , 北九州国際会議場, 2023年10月.
-3. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. "セッション属性と商品特徴量の階層埋め込みによる擬似セッションベース推薦", 令和4年度データ解析コンペティション成果報告会, 中央大学後楽園キャンパス, 2023年3月.
-4. 住谷祐太, 富川雄斗, 伊藤尚紀, & 高橋里司. "子育て支援 QA サイトにおける潜在嗜好変化の時系列推定". 言語処理学会第 29 回年次大会, 沖縄, 2023年3月.
-5. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. "セッション属性と商品特徴量の階層埋め込みによる擬似セッションベース推薦", 令和4年度データ解析コンペティション最終報告会, 千葉工業大学津田沼キャンパス, 2023年2月.
-6. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. "SCTTM によるユーザ属性を考慮した潜在嗜好変化の時系列推定", 令和3年度データ解析コンペティション成果報告会, オンライン, 2022年3月.
-7. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. "SCTTM によるユーザ属性を考慮した潜在嗜好変化の時系列推定", 令和3年度データ解析コンペティション最終報告会, オンライン, 2022年2月.
-8. 住谷祐太, 庄野逸. "反実仮想的なセグメンテーションによる機械学習モデルの解釈", The 24th Information-based induction science workshop , オンライン, 2021年11月.
+1. 住谷祐太, 庄野逸. &quot;テーブルデータにおける入力空間の特徴を考慮したモデルベース反実仮想説明&quot;, 電子情報通信学会総合大会 , 広島大学東広島キャンパス, 2024年3月.
+2. 住谷祐太, 庄野逸. &quot;FastDCFlow: Fast and Diverse Counterfactual Explanations Using Normalizing Flows&quot;, The 24th Information-based induction science workshop , 北九州国際会議場, 2023年10月.
+3. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. &quot;セッション属性と商品特徴量の階層埋め込みによる擬似セッションベース推薦&quot;, 令和4年度データ解析コンペティション成果報告会, 中央大学後楽園キャンパス, 2023年3月.
+4. 住谷祐太, 富川雄斗, 伊藤尚紀, & 高橋里司. &quot;子育て支援 QA サイトにおける潜在嗜好変化の時系列推定&quot;. 言語処理学会第 29 回年次大会, 沖縄, 2023年3月.
+5. 住谷祐太, 沼田竜成, 立花展至, 村上諒 & 高橋里司. &quot;セッション属性と商品特徴量の階層埋め込みによる擬似セッションベース推薦&quot;, 令和4年度データ解析コンペティション最終報告会, 千葉工業大学津田沼キャンパス, 2023年2月.
+6. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. &quot;SCTTM によるユーザ属性を考慮した潜在嗜好変化の時系列推定&quot;, 令和3年度データ解析コンペティション成果報告会, オンライン, 2022年3月.
+7. 住谷祐太, 富川雄斗, 伊藤尚紀, 佐々木極昇, 羽田野湧太, 寺崎海翔, 青柳和樹, 荒木麻帆 & 高橋里司. &quot;SCTTM によるユーザ属性を考慮した潜在嗜好変化の時系列推定&quot;, 令和3年度データ解析コンペティション最終報告会, オンライン, 2022年2月.
+8. 住谷祐太, 庄野逸. &quot;反実仮想的なセグメンテーションによる機械学習モデルの解釈&quot;, The 24th Information-based induction science workshop , オンライン, 2021年11月.
    
 
 ## 🏆 Awards

@@ -4,7 +4,7 @@
   <img src="./IMG_5624.jpg"; style="width: 100%;">
 </p>
 
-## 📌 About Me
+## 📌 About Me 
 
 My university years were marked by involvement in multiple machine learning research projects, where I particularly focused on counterfactual explanations, statistical machine learning for natural language processing, and the development of recommendation systems using graph neural networks. In 2024, I am set to begin a career in data science consulting, leveraging the expertise I have gained.
 

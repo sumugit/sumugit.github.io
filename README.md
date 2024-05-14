@@ -49,7 +49,7 @@ My university years were marked by involvement in multiple machine learning rese
  
 ## 💼 Professional Experience
 
-- **Data Scientist**, Cutting-edge Technology Consulting, , Fujitsu Ltd., 2024--
+- **Data Scientist**, Cutting-edge Technology Consulting, Fujitsu Ltd., 2024--Present.
 
 ## Part-time Job & Internship Experience
 - **Fujitsu Ltd.**: Analysis of text and POS data using data analytics platforms. (February 2022 -- December 2022, September 2023 -- March 2024)

@@ -21,8 +21,8 @@ My university years were marked by involvement in multiple machine learning rese
 
 ### International Conference Proceedings (Peer-reviewed)
 
-1. Y. Sumiya and H. Shouno.&quot;Model-Based Counterfactual Explanations Incorporating Feature Space Attributes for Tabular Data&quot;, IEEE World Congress on Computational Intelligence, Yokohama, Japan, July 2024. [[arXiv link](https://arxiv.org/abs/2404.13224)]
-2. Y. Sumiya, R. Numata and S. Takahashi. &quot;Pseudo Session-Based Recommendation with Hierarchical Embedding and Session Attributes&quot;, in 26th International Conference on Discovery Science, Porto, Portugal, October 2023. [[arXiv link](https://arxiv.org/abs/2306.10029)]
+1. Y. Sumiya and H. Shouno.&quot;Model-Based Counterfactual Explanations Incorporating Feature Space Attributes for Tabular Data&quot;, IEEE World Congress on Computational Intelligence, Yokohama, Japan, July 2024. [[IEEE Xplore link](https://ieeexplore.ieee.org/document/10651395)] [[arXiv link](https://arxiv.org/abs/2404.13224)]
+2. Y. Sumiya, R. Numata and S. Takahashi. &quot;Pseudo Session-Based Recommendation with Hierarchical Embedding and Session Attributes&quot;, in 26th International Conference on Discovery Science, Porto, Portugal, October 2023. [[SpringerLink](https://link.springer.com/chapter/10.1007/978-3-031-45275-8_39)] [[arXiv link](https://arxiv.org/abs/2306.10029)]
 
 ### Conference Presentations (Non-peer-reviewed)
 
@@ -66,7 +66,7 @@ My university years were marked by involvement in multiple machine learning rese
 ## Qualification
 - TOEIC 825 (2023/06)
 - EIKEN Grade Pre-1
-- Japan Statistical Society Certificate Grade 2
+- Japan Statistical Society Certificate Grade Pre-1
 
 ## Other information
 - 学費全額免除 (2020年 -- 2023年)

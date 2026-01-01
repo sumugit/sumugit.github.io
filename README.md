@@ -21,7 +21,7 @@ My university years were marked by involvement in multiple machine learning rese
 
 ### International Conference Proceedings (Peer-reviewed)
 
-1. Yuta Sumiya, Naoyuki Echizenya, Tomoyuki Taguma, Kyosuke Toda, Takahisa Ando, Yoshiaki Oida, Yutaka Takahashi.&quot;Decoding Policy Interactions in System Dynamics: A Balanced Tree Clustering Approach&quot;, International System Dynamics Conference, Boston, USA, August 2025.
+1. Y. Sumiya, N. Echizenya, T. Taguma, K. Toda, T. Ando, Y. Oida, Y. Takahashi.&quot;Decoding Policy Interactions in System Dynamics: A Balanced Tree Clustering Approach&quot;, International System Dynamics Conference, Boston, USA, August 2025.
 2. Y. Sumiya and H. Shouno.&quot;Model-Based Counterfactual Explanations Incorporating Feature Space Attributes for Tabular Data&quot;, IEEE World Congress on Computational Intelligence, Yokohama, Japan, July 2024. [[IEEE Xplore link](https://ieeexplore.ieee.org/document/10651395)] [[arXiv link](https://arxiv.org/abs/2404.13224)]
 3. Y. Sumiya, R. Numata and S. Takahashi. &quot;Pseudo Session-Based Recommendation with Hierarchical Embedding and Session Attributes&quot;, in 26th International Conference on Discovery Science, Porto, Portugal, October 2023. [[SpringerLink](https://link.springer.com/chapter/10.1007/978-3-031-45275-8_39)] [[arXiv link](https://arxiv.org/abs/2306.10029)]
 

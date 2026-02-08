@@ -69,8 +69,8 @@ I am currently a Data Scientist and Consultant at a technology firm. With a stro
 
 ## Qualification
 - TOEIC 825 (2023/06)
-- EIKEN Grade Pre-1
-- Japan Statistical Society Certificate Grade Pre-1
+- 英検準1級
+- 統計検定準1級
 
 ## Other information
 - 学費全額免除 (2020年 -- 2023年)

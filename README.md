@@ -6,7 +6,7 @@
 
 ## 📌 About Me 
 
-My university years were marked by involvement in multiple machine learning research projects, where I particularly focused on counterfactual explanations, statistical machine learning for natural language processing, and the development of recommendation systems using graph neural networks. In 2024, I am set to begin a career in data science consulting, leveraging the expertise I have gained.
+I am currently a Data Scientist and Consultant at a technology firm. With a strong academic background in machine learning—specifically in NLP and recommendation systems—I now focus on bridging the gap between theoretical AI and real-world business applications. My work involves developing and deploying data-driven solutions to solve complex industrial and economic challenges.
 
 ## 📚 Education
 

@@ -27,7 +27,7 @@ I am currently a Data Scientist and Consultant at a technology firm. With a stro
 
 ### Conference Presentations (Non-peer-reviewed)
 
-1. 住谷祐太，越前谷直之，笈田佳彰．&quot;建設現場における危険予知支援のための教師なし対照学習によるヒヤリハット事例推薦&quot;, 第40回人工知能学会全国大会, Gメッセ群馬, 2026年6月.
+1. 住谷祐太，越前谷直之，笈田佳彰．&quot;建設現場における危険予知支援のための教師なし対照学習によるヒヤリハット事例推薦&quot;, 第40回人工知能学会全国大会, Gメッセ群馬, 2026年6月. [[予稿](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_1YinA08/_pdf/-char/en)]
 2. 山上光平, 横山優一, 住谷祐太, 庄野逸, 水牧仁一朗, 雨海有佑, 大河内拓雄. &quot;Deep prior によるノイズ・アーティファクト除去 ～軟X線角度分解光電子分光法への適用～&quot;, The 26th Information-based induction science workshop, 那覇文化芸術劇場なはーと, 2025年11月.
 3. 住谷祐太, 越前谷直之, 田熊知幸, 戸田恭輔, 安藤剛寿, 笈田佳彰, 高橋裕. &quot;システム・ダイナミクスにおける複数施策相互作用を考慮した平衡木クラスタリングによる解釈&quot;, 第39回人工知能学会全国大会, 大阪国際会議場, 2025年5月.
 4. 山上光平, 横山優一, 住谷祐太, 庄野逸, 水牧仁一朗, 雨海有佑, 大河内拓雄. &quot;深層学習と組み合わせた超高効率μSX-ARPESの構築:μSX-ARPESへの実装&quot;, 第38回日本放射光学会年会放射光科学合同シンポジウム, 仙台国際センター, 2025年1月.
